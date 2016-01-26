@@ -6,3 +6,13 @@ star
 three
 eagle
 try
+error
+neptune
+noir
+blanc
+vert
+raven
+nisa
+adell
+prinny
+saturn
